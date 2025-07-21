@@ -1,7 +1,7 @@
 # 7ED050
 ### Contemporary Challenges and Opportunities in Higher Education
 
-<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/e9291fe0-8b73-4d63-8253-8b133b1aa140" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e9291fe0-8b73-4d63-8253-8b133b1aa140" />
 
 
 The module aims to develop the tutors' curiosity about the wider context in which they teach and/or support learning, and to explore challenges and opportunities that may affect their learners’ experience.
